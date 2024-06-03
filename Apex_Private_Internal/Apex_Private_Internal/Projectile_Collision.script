@@ -1,0 +1,12 @@
+  
+  v4 = *(_QWORD *)(*(_QWORD *)(*(_QWORD *)(qword_74A3708 + 8) + 80i64) + 16992i64);
+
+  Function_Holder = Game + 0x74A3708
+
+  Function_Holder
+  {
+  ClientCodeCall = 0x80
+  VoidFunctionre = 0x55
+  }
+   
+void functionref( entity projectile, vector3 pos, entity hitEnt, int hitbox, bool passthrough )

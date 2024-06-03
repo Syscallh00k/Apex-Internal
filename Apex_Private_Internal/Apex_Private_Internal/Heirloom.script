@@ -1,0 +1,36 @@
+// Model name: mdl/weapons/bangalore_heirloom/ptpov_bangalore_heirloom.rmdl Model Index: 3592 , Standing and Croushing = 4 ,6 = ?,random_ani = 8,Throu pullout = 7,Pullout1 = 10,Running Start Frame = 30, inspect1 = 13 -> 14 ->;, CommNear_insect = [26], Stand_anim = [27], croush_end = [29], inspect_2 = [32] inspect_3 = [33], Crashing Game = (45 -> 50)
+	
+	// Model name: mdl/Weapons/crypto_heirloom/ptpov_crypto_heirloom.rmdl Model Index: 3622
+ 
+	// Model name: mdl/Weapons/loba_heirloom/ptpov_loba_heirloom.rmdl Model Index: 3632
+ 
+ 
+	// Model name: mdl/weapons/rampart_heirloom/ptpov_rampart_heirloom.rmdl Model Index: 3638
+ 
+	// Model name: mdl/Weapons/horizon_heirloom/ptpov_horizon_heirloom.rmdl Model Index: 3641
+ 
+	// Model name: mdl/Weapons/ash_heirloom/ptpov_ash_heirloom.rmdl Model Index: 3650
+ 
+	// Model name: mdl/Weapons/seer_heirloom/ptpov_seer_heirloom.rmdl Model Index: 3654
+ 
+	// Model name: mdl/weapons/kunai/wraith_kunai_rt01_v.rmdl Model Index: 3656, Standing = 2 or 60,PullOut1 = 8,Pullout2 = 9, Pullout3 = [15], Pullout4 = [17],Pullout_Void_Walker = 18, Pullout5 = [5],Dreh ani Start = 10  11= ?,while_run_in = 12 [13] 14 ,inspect_card = 30, inspect_schweiß = 35, fly_inspect = 31, default_inspect = 32,default_inspect_with_voice_line = 29, croush_inspect = 33, portal_inspect = 34, 50 -> 51  maybe till 54 and 56 and 68 Crash Pc, Attack = [55], Croushing = [74] ,Running = 73
+ 
+	// Model name: mdl/Weapons/fuse_heirloom/ptpov_fuse_heirloom.rmdl Model Index: 3657
+ 
+	// Model name: mdl/weapons/valkyrie_heirloom/valkyrie_heirloom_v22_base_v.rmdl Model Index: 3645
+ 
+	// Model name: mdl/weapons/gibraltar_heirloom/gibraltar_heirloom_v.rmdl Model Index: 3601
+ 
+	// Model name: mdl/Weapons/caustic_heirloom/ptpov_caustic_heirloom.rmdl Model Index: 3596
+ 
+	// Model name: mdl/Weapons/mirage_heirloom/ptpov_mirage_heirloom.rmdl Model Index: 3606
+ 
+	// Model name: mdl/weapons/wattson_heirloom/wattson_heirloom_v21_base_v.rmdl Model Index: 3618
+ 
+	// Model name: mdl/Weapons/pathfinder_gloves/ptpov_pathfinder_gloves.rmdl Model Index: 3615
+ 
+	// Model name: mdl/Weapons/drumstick/ptpov_baton_lifeline.rmdl Model Index: 3605
+ 
+	// Model name: mdl/Weapons/octane_knife/ptpov_octane_knife.rmdl Model Index: 3609 default_inspect = [30] run_start = 1 -> 2; run_start_2 = [6] ,pullout_1 = [7] pullout_2 = [8], pullout_3 = [9], pullout_4 = 10, pullout_5 = [11], pullout_6 = [12], pullout_7 = [13] default_pullout = [15]; runn_start = [14], maybe standing = [21],jumped_croush = 22, while_run_inspect = [24], stin_run_begin = [25], finger_inspect = [27],drill_inspect = [28], inspect_croush = [29], door_kick = [55]
+	
+	// Model name: mdl/Weapons/kunai/ptpov_kunai_wraith.rmdl Model Index: 3588 
